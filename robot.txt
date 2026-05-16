@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ericaluc.github.io/manta128/sitemap.xml
